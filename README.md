@@ -33,3 +33,4 @@
         
 # 구현 화면
 ![description_quiz](./image/description_quiz.jpg)
+![description_quiz_2](./image/description_quiz_2.jpg)
