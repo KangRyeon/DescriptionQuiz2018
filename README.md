@@ -32,4 +32,4 @@
         - 참가자 : 출제자가 묘사하는 것을 보고 정답을 서버로 전송함.
         
 # 구현 화면
-    ![description_quiz](./image/description_quiz.jpg)
+![description_quiz](./image/description_quiz.jpg)
